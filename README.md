@@ -49,4 +49,3 @@ Build the project using:
 npm run build
 ```
 
-The built files will be in the `dist` directory, ready to be deployed to your hosting provider of choice.

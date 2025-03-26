@@ -8,7 +8,6 @@ export default defineConfig(({ mode }) => ({
     host: "::",
     port: 8080,
     fs: {
-      // Allow serving files from project root
       allow: ['.']
     }
   },
